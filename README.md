@@ -2,6 +2,8 @@
 
 H E R M I T is a simple, rule-based conversational chatbot written in Python. It's designed to respond to basic greetings, answer simple questions, tell jokes, and even fetch the current weather and time!
 
+![HERMIT Chatbot Demo](chatbot.png)
+
 This project was built as part of the **CodeAlpha Internship**.
 
 ## Features
